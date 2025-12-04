@@ -27,6 +27,8 @@ I thought that this could be a great additon to my setup and I could learn a lot
 - 4x M3x16mm screws
 - 6x M3x5mx4mm heatset inserts
 
+I learnt a buch from this project it was super fun :D
+
 
 
 
