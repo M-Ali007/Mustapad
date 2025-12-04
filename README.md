@@ -17,6 +17,8 @@ I thought that this could be a great additon to my setup and I could learn a lot
 
 ### A screenshot of My case and how it'll fit together
 
+<img width="995" height="608" alt="image" src="https://github.com/user-attachments/assets/8ce74837-9865-4b66-8ef4-c81317a0f8de" />
+
 <img width="1196" height="741" alt="image" src="https://github.com/user-attachments/assets/2b4f5de4-3f2a-47ea-914d-bc3b407a6ec9" />
 
 ### a BOM for my parts
