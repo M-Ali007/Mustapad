@@ -15,7 +15,7 @@ I thought that this could be a great additon to my setup and I could learn a lot
 
 <img width="624" height="644" alt="image" src="https://github.com/user-attachments/assets/6033d113-3b4c-47bb-9669-2865888450a6" />
 
-### A screenshot of your case and how it'll fit together
+### A screenshot of My case and how it'll fit together
 
 <img width="1196" height="741" alt="image" src="https://github.com/user-attachments/assets/2b4f5de4-3f2a-47ea-914d-bc3b407a6ec9" />
 
