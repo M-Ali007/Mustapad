@@ -3,6 +3,9 @@
 ### Inspiration
 I thought that this could be a great additon to my setup and I could learn a lot from doing this so I made this. It was hard but I learnt a bunch.
 
+### Challenges
+This was pretty hard - I've never done anything like this ever - but it all paid off and I hvae a super cool design now
+
 ### A screenshot of my overall hackpad
 
 <img width="1114" height="728" alt="image" src="https://github.com/user-attachments/assets/adb04ff4-7e03-48b9-913b-36899871635f" />
