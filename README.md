@@ -4,7 +4,7 @@
 I thought that this could be a great additon to my setup and I could learn a lot from doing this so I made this. It was hard but I learnt a bunch.
 
 ### Challenges
-This was pretty hard - I've never done anything like this ever - but it all paid off and I hvae a super cool design now
+This was pretty hard - I've never done anything like this ever - but it all paid off and I have a super cool design now
 
 ### A screenshot of my overall hackpad
 
